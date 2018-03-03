@@ -1,0 +1,9 @@
+F:\Lam\MVC\ESPFAKE-SHOP\EspfakeShop\EspfakeShop.Common\bin\Debug\EspfakeShop.Common.dll
+F:\Lam\MVC\ESPFAKE-SHOP\EspfakeShop\EspfakeShop.Common\bin\Debug\EspfakeShop.Common.pdb
+F:\Lam\MVC\ESPFAKE-SHOP\EspfakeShop\EspfakeShop.Common\obj\Debug\EspfakeShop.Common.dll
+F:\Lam\MVC\ESPFAKE-SHOP\EspfakeShop\EspfakeShop.Common\obj\Debug\EspfakeShop.Common.pdb
+F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Common\bin\Debug\EspfakeShop.Common.dll
+F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Common\bin\Debug\EspfakeShop.Common.pdb
+F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Common\obj\Debug\EspfakeShop.Common.dll
+F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Common\obj\Debug\EspfakeShop.Common.pdb
+F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Common\obj\Debug\EspfakeShop.Common.csprojResolveAssemblyReference.cache
