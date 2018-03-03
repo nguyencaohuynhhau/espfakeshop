@@ -54,7 +54,7 @@ namespace EspfakeShop.Service
         public IEnumerable<Post> GetAllTagPaging(string tag,int page, int pageSize, out int totalRow)
         {
             //todo : select all by post tag
-            return _postRepository.GetMultiPaging(x => x.Status, out totalRow, page, pageSize);
+            return _postRepository.GetAllByTag(tag, page, pageSize, out totalRow);
         }
 
         public Post GetById(int id)
