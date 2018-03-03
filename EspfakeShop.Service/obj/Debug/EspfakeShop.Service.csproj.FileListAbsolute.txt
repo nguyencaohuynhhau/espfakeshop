@@ -9,7 +9,6 @@ F:\Lam\MVC\ESPFAKE-SHOP\EspfakeShop\EspfakeShop.Service\bin\Debug\EspfakeShop.Mo
 F:\Lam\MVC\ESPFAKE-SHOP\EspfakeShop\EspfakeShop.Service\bin\Debug\EspfakeShop.Common.pdb
 F:\Lam\MVC\ESPFAKE-SHOP\EspfakeShop\EspfakeShop.Service\bin\Debug\EspfakeShop.Data.pdb
 F:\Lam\MVC\ESPFAKE-SHOP\EspfakeShop\EspfakeShop.Service\bin\Debug\EspfakeShop.Model.pdb
-F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Service\obj\Debug\EspfakeShop.Service.csprojResolveAssemblyReference.cache
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Service\bin\Debug\EspfakeShop.Service.dll
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Service\bin\Debug\EspfakeShop.Service.pdb
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Service\bin\Debug\EspfakeShop.Common.dll
@@ -20,5 +19,6 @@ F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Service\bin\Debug\EspfakeShop.Common.pd
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Service\bin\Debug\EspfakeShop.Data.pdb
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Service\bin\Debug\EspfakeShop.Model.pdb
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Service\bin\Debug\EntityFramework.xml
+F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Service\obj\Debug\EspfakeShop.Service.csprojResolveAssemblyReference.cache
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Service\obj\Debug\EspfakeShop.Service.dll
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Service\obj\Debug\EspfakeShop.Service.pdb

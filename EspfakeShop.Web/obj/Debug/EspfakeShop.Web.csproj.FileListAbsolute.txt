@@ -52,7 +52,6 @@ F:\Lam\MVC\ESPFAKE-SHOP\EspfakeShop\EspfakeShop.Web\bin\EspfakeShop.Common.pdb
 F:\Lam\MVC\ESPFAKE-SHOP\EspfakeShop\EspfakeShop.Web\bin\EspfakeShop.Data.pdb
 F:\Lam\MVC\ESPFAKE-SHOP\EspfakeShop\EspfakeShop.Web\bin\EspfakeShop.Model.pdb
 F:\Lam\MVC\ESPFAKE-SHOP\EspfakeShop\EspfakeShop.Web\bin\EspfakeShop.Service.pdb
-F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Web\obj\Debug\EspfakeShop.Web.csprojResolveAssemblyReference.cache
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Web\bin\roslyn\csc.exe
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
@@ -69,6 +68,8 @@ F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Web\bin\EspfakeShop.Web.dll.config
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Web\bin\EspfakeShop.Web.dll
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Web\bin\EspfakeShop.Web.pdb
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Web\bin\Antlr3.Runtime.dll
+F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Web\bin\EntityFramework.dll
+F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Web\bin\EntityFramework.SqlServer.dll
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Web\bin\EspfakeShop.Common.dll
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Web\bin\EspfakeShop.Data.dll
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Web\bin\EspfakeShop.Model.dll
@@ -87,11 +88,12 @@ F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Web\bin\System.Web.WebPages.Deployment.
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Web\bin\System.Web.WebPages.dll
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Web\bin\System.Web.WebPages.Razor.dll
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Web\bin\WebGrease.dll
-F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Web\bin\EntityFramework.dll
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Web\bin\EspfakeShop.Common.pdb
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Web\bin\EspfakeShop.Data.pdb
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Web\bin\EspfakeShop.Model.pdb
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Web\bin\EspfakeShop.Service.pdb
+F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Web\bin\EntityFramework.xml
+F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Web\bin\EntityFramework.SqlServer.xml
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Web\bin\System.Web.Helpers.xml
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Web\bin\System.Web.Mvc.xml
@@ -105,6 +107,6 @@ F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Web\bin\Newtonsoft.Json.xml
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Web\bin\System.Net.Http.Formatting.xml
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Web\bin\System.Web.Http.xml
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Web\bin\System.Web.Http.WebHost.xml
-F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Web\bin\EntityFramework.xml
+F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Web\obj\Debug\EspfakeShop.Web.csprojResolveAssemblyReference.cache
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Web\obj\Debug\EspfakeShop.Web.dll
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Web\obj\Debug\EspfakeShop.Web.pdb

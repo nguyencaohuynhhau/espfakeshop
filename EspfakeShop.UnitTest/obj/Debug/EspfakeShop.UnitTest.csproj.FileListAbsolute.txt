@@ -48,7 +48,6 @@ F:\Lam\MVC\ESPFAKE-SHOP\EspfakeShop\EspfakeShop.UnitTest\bin\Debug\System.Web.We
 F:\Lam\MVC\ESPFAKE-SHOP\EspfakeShop\EspfakeShop.UnitTest\bin\Debug\System.Net.Http.Formatting.xml
 F:\Lam\MVC\ESPFAKE-SHOP\EspfakeShop\EspfakeShop.UnitTest\bin\Debug\Newtonsoft.Json.xml
 F:\Lam\MVC\ESPFAKE-SHOP\EspfakeShop\EspfakeShop.UnitTest\bin\Debug\System.Web.WebPages.Deployment.xml
-F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.UnitTest\obj\Debug\EspfakeShop.UnitTest.csprojResolveAssemblyReference.cache
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.UnitTest\bin\Debug\roslyn\csc.exe
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.UnitTest\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.UnitTest\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
@@ -61,15 +60,18 @@ F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.UnitTest\bin\Debug\roslyn\System.Reflec
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.UnitTest\bin\Debug\roslyn\vbc.exe
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.UnitTest\bin\Debug\roslyn\VBCSCompiler.exe
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.UnitTest\bin\Debug\roslyn\VBCSCompiler.exe.config
+F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.UnitTest\bin\Debug\EspfakeShop.UnitTest.dll.config
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.UnitTest\bin\Debug\EspfakeShop.UnitTest.dll
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.UnitTest\bin\Debug\EspfakeShop.UnitTest.pdb
+F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.UnitTest\bin\Debug\EntityFramework.dll
+F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.UnitTest\bin\Debug\EntityFramework.SqlServer.dll
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.UnitTest\bin\Debug\EspfakeShop.Common.dll
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.UnitTest\bin\Debug\EspfakeShop.Data.dll
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.UnitTest\bin\Debug\EspfakeShop.Model.dll
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.UnitTest\bin\Debug\EspfakeShop.Service.dll
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.UnitTest\bin\Debug\EspfakeShop.Web.dll
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.UnitTest\bin\Debug\EntityFramework.dll
+F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.UnitTest\bin\Debug\Moq.dll
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.UnitTest\bin\Debug\System.Web.Optimization.dll
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.UnitTest\bin\Debug\System.Web.Mvc.dll
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.UnitTest\bin\Debug\System.Web.Http.dll
@@ -86,8 +88,10 @@ F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.UnitTest\bin\Debug\EspfakeShop.Data.pdb
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.UnitTest\bin\Debug\EspfakeShop.Model.pdb
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.UnitTest\bin\Debug\EspfakeShop.Service.pdb
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.UnitTest\bin\Debug\EspfakeShop.Web.pdb
-F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.UnitTest\bin\Debug\EntityFramework.xml
+F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.UnitTest\bin\Debug\EntityFramework.SqlServer.xml
+F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.UnitTest\bin\Debug\Moq.xml
+F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.UnitTest\bin\Debug\System.Web.Optimization.xml
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.UnitTest\bin\Debug\System.Web.Mvc.xml
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.UnitTest\bin\Debug\System.Web.Http.xml
@@ -98,5 +102,6 @@ F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.UnitTest\bin\Debug\System.Web.WebPages.
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.UnitTest\bin\Debug\System.Net.Http.Formatting.xml
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.UnitTest\bin\Debug\Newtonsoft.Json.xml
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.UnitTest\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.UnitTest\obj\Debug\EspfakeShop.UnitTest.csprojResolveAssemblyReference.cache
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.UnitTest\obj\Debug\EspfakeShop.UnitTest.dll
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.UnitTest\obj\Debug\EspfakeShop.UnitTest.pdb

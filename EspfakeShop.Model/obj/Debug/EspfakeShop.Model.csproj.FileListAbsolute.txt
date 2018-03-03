@@ -17,4 +17,3 @@ F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Model\bin\Debug\EntityFramework.xml
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Model\bin\Debug\EntityFramework.SqlServer.xml
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Model\obj\Debug\EspfakeShop.Model.dll
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Model\obj\Debug\EspfakeShop.Model.pdb
-F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Model\obj\Debug\EspfakeShop.Model.csprojResolveAssemblyReference.cache

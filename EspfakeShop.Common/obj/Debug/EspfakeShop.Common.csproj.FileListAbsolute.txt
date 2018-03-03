@@ -6,4 +6,3 @@ F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Common\bin\Debug\EspfakeShop.Common.dll
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Common\bin\Debug\EspfakeShop.Common.pdb
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Common\obj\Debug\EspfakeShop.Common.dll
 F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Common\obj\Debug\EspfakeShop.Common.pdb
-F:\Lam\MVC\EspfakeShopOnline\EspfakeShop.Common\obj\Debug\EspfakeShop.Common.csprojResolveAssemblyReference.cache
