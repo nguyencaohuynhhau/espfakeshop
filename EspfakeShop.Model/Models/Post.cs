@@ -1,6 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using EspfakeShop.Model.Abstract;
+using System.Collections.Generic;
 
 namespace EspfakeShop.Model.Models
 {
@@ -37,5 +38,7 @@ namespace EspfakeShop.Model.Models
 
         [ForeignKey("CategoryID")]
         public virtual PostCategory PostCategory { set; get; }
+
+        public virtual IEnumerable<PostTag> PostTag { set; get; }
     }
 }

@@ -2,8 +2,8 @@
 using EspfakeShop.Model.Models;
 
 namespace EspfakeShop.Data.Repositories
-{
-    public interface IProductRepository
+{ 
+    public interface IProductRepository : IRepository<Product>
     {
     }
 

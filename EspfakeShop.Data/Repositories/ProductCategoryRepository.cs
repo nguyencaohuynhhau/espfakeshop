@@ -1,11 +1,11 @@
-﻿using EspfakeShop.Data.Infrastructure;
-using EspfakeShop.Model.Models;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
+using EspfakeShop.Data.Infrastructure;
+using EspfakeShop.Model.Models;
 
 namespace EspfakeShop.Data.Repositories
 {
-    public interface IProductCategoryRepository
+    public interface IProductCategoryRepository : IRepository<ProductCategory>
     {
         IEnumerable<ProductCategory> GetByAlias(string alias);
     }
